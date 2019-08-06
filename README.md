@@ -1,3 +1,3 @@
 # Praxis Academy
 ## Akmal Maulana
-Here is the the project/exercize that I did.
+Here is the the projects/exercises that I did.
