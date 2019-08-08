@@ -3,7 +3,7 @@ void main() {
   String separate = "==========================================>>";
   String next = "NEXT==>>";
 
-  //list in universal
+  //list in universal-
   var salam = ["pagi", "siang", "sore"];
   print('jumlah elemen/panjang list : ${salam.length}');
 
