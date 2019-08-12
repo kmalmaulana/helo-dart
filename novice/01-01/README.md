@@ -1,17 +1,15 @@
 # Starting With Dart
-# Hello World
 
-fungsi **main()** harus ada disetiap aplikasi yang dibuat.
+# Hello World
+On the first run 
 
 ```dart
 void main() {
-  print('Hello, World');
+  print('Hello, There');
 }
 ```
 
 Hasil:
-
-![Hasil](img/hello.png)
 
 **print()** digunakan untuk menampilkan teks pada console
 
@@ -30,8 +28,3 @@ var image = {
 };
 ```
 
-Pada code diatas varibale **name** akan bertipe **String**, **year** bertipe **int** , **antennaDiameter** bertipe **double**, **flyObjects** bertipe **Array** dan **image** berupa **map**
-
-# Control flow statements
-
-Variable diambil dari variable pada code diatas
